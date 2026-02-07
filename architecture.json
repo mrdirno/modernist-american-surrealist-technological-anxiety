@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-surrealist-technological-anxiety",
+  "title": "The Absence of Overlay",
+  "tagline": "In a city of static and schematics, a man must retrieve a secret that has swallowed its keeper, learning that the true noise is the silence beneath the signal.",
+  "target_words": 69816,
+  "actual_words": 69816,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Perceptual Dissonance",
+    "The Texture of Silence",
+    "Metaphysical Debt",
+    "Animated Infrastructure"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Television-Tuned Sky",
+      "words": 6346
+    },
+    {
+      "ch": 2,
+      "title": "The Tang of Indelible Fear",
+      "words": 6346
+    },
+    {
+      "ch": 3,
+      "title": "Structured Chaos in Wholesale Buttons",
+      "words": 6346
+    },
+    {
+      "ch": 4,
+      "title": "A Different Kind of Noise",
+      "words": 6346
+    },
+    {
+      "ch": 5,
+      "title": "Autopsy of Municipal Infrastructure",
+      "words": 6346
+    },
+    {
+      "ch": 6,
+      "title": "A Schematic Bloomed Across Void",
+      "words": 6346
+    },
+    {
+      "ch": 7,
+      "title": "The Contained Fever",
+      "words": 6346
+    },
+    {
+      "ch": 8,
+      "title": "A Throat Swallowing Whole",
+      "words": 6346
+    },
+    {
+      "ch": 9,
+      "title": "The Theorem Rendered",
+      "words": 6346
+    },
+    {
+      "ch": 10,
+      "title": "The Absence of Overlay",
+      "words": 6346
+    },
+    {
+      "ch": 11,
+      "title": "Walking Through Decryption",
+      "words": 6346
+    }
+  ]
+}
